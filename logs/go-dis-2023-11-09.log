@@ -1,0 +1,39 @@
+[INFO][server.go:36] 2023/11/09 12:52:42 start listen
+[INFO][server.go:65] 2023/11/09 12:53:01 accept link
+[INFO][echo.go:48] 2023/11/09 12:53:49 Connection close
+[INFO][server.go:46] 2023/11/09 13:06:57 shutting down
+[INFO][echo.go:66] 2023/11/09 13:06:57 handler shutting down 
+[INFO][server.go:36] 2023/11/09 17:21:46 start listen
+[INFO][server.go:65] 2023/11/09 17:21:50 accept link
+[INFO][server.go:46] 2023/11/09 17:26:24 shutting down
+[INFO][handler.go:87] 2023/11/09 17:26:24 handler shutting down
+[INFO][echo_database.go:26] 2023/11/09 17:26:34 EchoDatabase Close
+[INFO][echo_database.go:22] 2023/11/09 17:26:44 EchoDatabase AfterClientClose
+[INFO][handler.go:56] 2023/11/09 17:26:44 connection closed:127.0.0.1:52613
+[INFO][handler.go:87] 2023/11/09 17:26:44 handler shutting down
+[INFO][echo_database.go:26] 2023/11/09 17:26:44 EchoDatabase Close
+[INFO][server.go:36] 2023/11/09 17:26:51 start listen
+[INFO][server.go:65] 2023/11/09 17:26:55 accept link
+[ERROR][handler.go:74] 2023/11/09 17:27:36 require multi bulk reply
+[ERROR][handler.go:69] 2023/11/09 17:28:14 empty payload
+[ERROR][handler.go:69] 2023/11/09 17:28:21 empty payload
+[ERROR][handler.go:69] 2023/11/09 17:28:23 empty payload
+[ERROR][handler.go:69] 2023/11/09 17:28:32 empty payload
+[ERROR][handler.go:69] 2023/11/09 17:28:32 empty payload
+[ERROR][handler.go:69] 2023/11/09 17:28:34 empty payload
+[INFO][server.go:65] 2023/11/09 17:28:46 accept link
+[INFO][echo_database.go:22] 2023/11/09 17:28:56 EchoDatabase AfterClientClose
+[INFO][handler.go:56] 2023/11/09 17:28:56 connection closed:127.0.0.1:52943
+[ERROR][handler.go:69] 2023/11/09 17:29:16 empty payload
+[INFO][server.go:36] 2023/11/09 17:31:00 start listen
+[INFO][server.go:65] 2023/11/09 17:31:04 accept link
+[INFO][server.go:36] 2023/11/09 17:48:14 start listen
+[INFO][server.go:65] 2023/11/09 17:48:17 accept link
+[INFO][server.go:36] 2023/11/09 17:48:37 start listen
+[INFO][server.go:65] 2023/11/09 17:48:41 accept link
+[INFO][server.go:46] 2023/11/09 22:35:20 shutting down
+[INFO][handler.go:87] 2023/11/09 22:35:20 handler shutting down
+[INFO][echo_database.go:22] 2023/11/09 22:35:21 EchoDatabase AfterClientClose
+[INFO][handler.go:56] 2023/11/09 22:35:21 connection closed:127.0.0.1:57141
+[INFO][handler.go:87] 2023/11/09 22:35:21 handler shutting down
+[INFO][echo_database.go:26] 2023/11/09 22:35:21 EchoDatabase Close
